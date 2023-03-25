@@ -88,3 +88,21 @@ img {
   display: grid;
   margin-top: 30px;
 }
+
+footer {
+  display: flex;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+}
+footer a {
+  color: black;
+}
+.fa-facebook {
+  padding-left: 10px;
+}
+.fa-instagram {
+  padding-right: 10px;
+}
